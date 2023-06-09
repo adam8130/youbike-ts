@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/youbike-ts/static/js/main.f2a96a47.js",
+    "static/media/frame.png": "/youbike-ts/static/media/frame.24a67e71f1aa2f5f53a0.png",
+    "static/media/logo.png": "/youbike-ts/static/media/logo.6e4a0269893fb31a3f17.png",
+    "index.html": "/youbike-ts/index.html",
+    "main.f2a96a47.js.map": "/youbike-ts/static/js/main.f2a96a47.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2a96a47.js"
+  ]
+}
